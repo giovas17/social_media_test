@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Mariella Moon",
+    "username": "marimoon",
+    "isYourFriend": true,
+    "image": "https://images-stylist.s3-eu-west-1.amazonaws.com/app/uploads/2020/01/21072140/jennifer-aniston-sag-crop-1579591317-1090x1090.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sam Rutherford",
+    "username": "samRuth",
+    "isYourFriend": true,
+    "image": "https://icons.iconarchive.com/icons/jonathan-rey/star-wars-characters/256/Luke-Skywalker-02-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Kris Holt",
+    "username": "kHolt1",
+    "isYourFriend": true,
+    "image": "https://static.wikia.nocookie.net/hunger_games_simulator/images/6/6d/Chrispatt.png/revision/latest?cb=20210418153327"
+  },
+  {
+    "id": 4,
+    "name": "Jeff Dunn",
+    "username": "jeffD",
+    "isYourFriend": true,
+    "image": "https://beta.dopple.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FLBWXYQ-XnKSYxbZ-NuYGqQ%2F72d1f333-f660-4034-82cc-21849fbbb600%2Favatarhd&w=256&q=75"
+  },
+  {
+    "id": 5,
+    "name": "Emma Roth",
+    "username": "ERoth123",
+    "isYourFriend": true,
+    "image": "https://images-stylist.s3-eu-west-1.amazonaws.com/app/uploads/2019/10/18080847/jennifer-garner-crop-1571382560-1195x1195.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Morgan Meaker",
+    "username": "morganMeaker",
+    "isYourFriend": true,
+    "image": "https://image.enjoymovie.net/pZUHLc86VFS39rWU58HED-dpxtQ=/256x256/smart/core/p/qrp2vExvNg.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lawrence Bonk",
+    "username": "LauB",
+    "isYourFriend": true,
+    "image": "https://images-stylist.s3-eu-west-1.amazonaws.com/app/uploads/2018/01/09083739/jennifer-lawrence-2-crop-1515487065-1113x1113.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cheryl Eddy",
+    "username": "chere",
+    "isYourFriend": true,
+    "image": "https://b.thumbs.redditmedia.com/lhW7b3qoJbJ2g-KI9JhQVGsvSVMuOnjjOAJHRh1RxAQ.png"
+  },
+  {
+    "id": 9,
+    "name": "Joe Rossignol",
+    "username": "joeRos1111",
+    "isYourFriend": true,
+    "image": "https://img.thedailybeast.com/image/upload/dpr_2.0/c_crop,h_1360,w_1361,x_205,y_0/c_limit,w_128/d_placeholder_euli9k,fl_lossy,q_auto/v1643828535/brad_pitt_brian_cox_rkklmn"
+  },
+  {
+    "id": 10,
+    "name": "Tim Hardwick",
+    "username": "timH34",
+    "isYourFriend": true,
+    "image": "https://images.squarespace-cdn.com/content/v1/5616ac17e4b018d366f57f53/6a1b8c38-0043-4398-806a-936e70911664/Darth+Vader+soundboard.png"
+  }
+]
